@@ -1,5 +1,17 @@
 ## Welcome to GitHub Pages
 
+index.html
+
+clock.html
+
+time.html
+
+clock.html index.html time.html
+
+echo timezilla3
+
+echo clock.html index.html time.html
+
 You can use the [editor on GitHub](https://github.com/planprm/timezilla3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
